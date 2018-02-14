@@ -1,0 +1,18 @@
+{
+  "name": "playlistmaker",
+  "version": "1.0.0",
+  "description": "PLM",
+  "main": "index.js",
+  "dependencies": {
+    "api": "^1.0.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "utsav",
+  "license": "ISC",
+  "keywords": []
+}
